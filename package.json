@@ -1,0 +1,1 @@
+{"name":"substack-dashboard-weekly","version":"3.0.0","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"cors":"^2.8.5","express":"^4.19.2","rss-parser":"^3.13.0"},"engines":{"node":">=18"}}
